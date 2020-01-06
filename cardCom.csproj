@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.SpaServices" Version="3.1.0"/>
+    <PackageReference Include="Spa.Middleware" Version="1.0.0"/>
+    <PackageReference Include="Microsoft.AspNetCore.SpaServices.Extensions" Version="3.1.0"/>
+    <PackageReference Include="react.js" Version="0.14.7"/>
+    <PackageReference Include="Babel.Licensing" Version="2.8.1"/>
+    <PackageReference Include="JavaScriptViewEngine.Babel" Version="1.0.1"/>
+    <PackageReference Include="GitHub" Version="1.18.0"/>
+  </ItemGroup>
+</Project>
